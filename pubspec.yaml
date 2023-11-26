@@ -20,7 +20,7 @@ dependencies:
   flutter_compass: 
     git:
       url: https://github.com/gustamor/flutter_compass.git
-      ref: main
+      ref: master
   flutter_map: ^6.0.1
   geolocator: ^10.1.0
   latlong2: ^0.9.0
